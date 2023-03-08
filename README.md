@@ -30,8 +30,11 @@ LeetCode SQL
 | #    | Title                                                                                         | Solution | Difficulty |
 |------|-----------------------------------------------------------------------------------------------|---------| ---------- |
 | 183  |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)          |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/183.%20Customers%20Who%20Never%20Order.sql)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL]()|Easy|
 | 584  |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                  |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/584.%20Find%20Customer%20Referee.sql)|Easy|
 | 595  |[Big Countries](https://leetcode.com/problems/big-countries/)                                  |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/595.%20Big%20Countries.sql)|Easy|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL]()|Easy|
 | 1757 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
+|1873|[Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[MySQL]()|Easy|
 
 
