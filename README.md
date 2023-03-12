@@ -37,4 +37,17 @@ LeetCode SQL
 | 1757 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
 |1873|[Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[MySQL]()|Easy|
 
-
+23. Merge k Sorted Lists
+142. Linked List Cycle II
+175. Combine Two Tables
+176. Second Highest Salary
+197. Rising Temperature
+382. Linked List Random Node
+607. Sales Person
+608. Tree Node
+1484. Group Sold Products By The Date
+1527. Patients With a Condition
+1581. Customer Who Visited but Did Not Make Any Transactions
+1667. Fix Names in a Table
+1795. Rearrange Products Table
+1965. Employees With Missing Informatio
