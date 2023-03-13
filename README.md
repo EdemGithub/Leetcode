@@ -2,7 +2,7 @@ LeetCode in GO
 ========
 
 | #    | Title | Solution | Difficulty |
-|-----| ----- | -------- | ---------- |
+|------| ----- | -------- | ---------- |
 | 9    |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Go](https://github.com/teifikov/Leetcode/blob/main/problems/9.%20Palindrome%20Number.go)|Easy|
 | 13   |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Go](https://github.com/teifikov/Leetcode/blob/main/problems/13.RomantoInteger.go)|Easy|
 | 35   |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Go](https://github.com/teifikov/Leetcode/blob/main/problems/35.SearchInsertPosition.go)|Easy|
@@ -27,31 +27,31 @@ LeetCode in GO
 LeetCode SQL
 ========
 
-| #    | Title                                                                                         | Solution | Difficulty |
-|------|-----------------------------------------------------------------------------------------------|---------| ---------- |
-| 183  |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)          |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/183.%20Customers%20Who%20Never%20Order.sql)|Easy|
-|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL]()|Easy|
-| 584  |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                  |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/584.%20Find%20Customer%20Referee.sql)|Easy|
-| 595  |[Big Countries](https://leetcode.com/problems/big-countries/)                                  |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/595.%20Big%20Countries.sql)|Easy|
-|627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL]()|Easy|
-| 1757 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
-|1873|[Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[MySQL]()|Easy|
+| #     | Title                                                                                         | Solution | Difficulty |
+|-------|-----------------------------------------------------------------------------------------------|---------| ---------- |
+| 183   |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)          |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/183.%20Customers%20Who%20Never%20Order.sql)|Easy|
+| 196   |[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL]()|Easy|
+| 584   |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                  |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/584.%20Find%20Customer%20Referee.sql)|Easy|
+| 595   |[Big Countries](https://leetcode.com/problems/big-countries/)                                  |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/595.%20Big%20Countries.sql)|Easy|
+| 627   |[Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL]()|Easy|
+| 1757  |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) |[MySQL](https://github.com/teifikov/Leetcode/blob/main/problems/1757.%20Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
+| 1873  |[Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[MySQL]()|Easy|
 
-23. Merge k Sorted Lists
-101. Symmetric Tree
-142. Linked List Cycle II
-175. Combine Two Tables
-176. Second Highest Salary
-197. Rising Temperature
-382. Linked List Random Node
-607. Sales Person
-608. Tree Node
-1141. User Activity for the Past 30 Days I
-1484. Group Sold Products By The Date
-1527. Patients With a Condition
-1581. Customer Who Visited but Did Not Make Any Transactions
-1667. Fix Names in a Table
-1693. Daily Leads and Partners
-1729. Find Followers Count
-1795. Rearrange Products Table
-1965. Employees With Missing Informatio
+| 23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Go]()|Hard|
+| 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Go]()|Easy|
+| 142 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Go]()|Medium|
+| 175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/   )|[MySQL]()|Easy|
+| 176 |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL]()|Medium|
+| 197 |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL]()|Easy|
+| 382 |[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Go]()|Medium|
+| 607 |[Sales Person](https://leetcode.com/problems/sales-person/)|[MySQL]()|Easy|
+| 608 |[Tree Node](https://leetcode.com/problems/tree-node/)|[MySQL]()|Medium|
+| 1141 |[User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|[MySQL]()|Easy|
+| 1484 |[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[MySQL]()|Easy|
+| 1527 |[Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)|[MySQL]()|Easy|
+| 1581 |[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[MySQL]()|Easy|
+| 1667 |[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[MySQL]()|Easy|
+| 1693 |[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[MySQL]()|Easy|
+| 1729 |[Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[MySQL]()|Easy|
+| 1795 |[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[MySQL]()|Easy|
+| 1965 |[Employees With Missing Informatio](https://leetcode.com/problems/employees-with-missing-information/)|[MySQL]()|Easy|
