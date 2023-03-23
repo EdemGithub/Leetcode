@@ -58,3 +58,22 @@ LeetCode SQL
 196
 627
 1873
+
+586. Customer Placing the Largest Number of Orders
+511. Game Play Analysis I
+1890. The Latest Login in 2020
+1741. Find Total Time Spent by Each Employee
+129. Sum Root to Leaf Numbers
+1393. Capital Gain/Loss
+1407. Top Travellers
+412. Fizz Buzz
+958. Check Completeness of a Binary Tree
+182. Duplicate Emails
+1050. Actors and Directors Who Cooperated At Least Three Times
+1587. Bank Account Summary II
+1084. Sales Analysis III
+106. Construct Binary Tree from Inorder and Postorder Traversal
+208. Implement Trie (Prefix Tree)
+209. Minimum Size Subarray Sum
+211. Design Add and Search Words Data Structure
+1472. Design Browser History
